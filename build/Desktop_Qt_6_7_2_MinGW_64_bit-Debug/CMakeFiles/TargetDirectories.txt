@@ -1,9 +1,0 @@
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ToDoApp.dir
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ToDoApp_autogen_timestamp_deps.dir
-C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/ToDoApp_autogen.dir
