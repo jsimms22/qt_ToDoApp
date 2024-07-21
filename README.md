@@ -1,4 +1,4 @@
-## Simple To Do Stype Application made with QT
+## Simple To-Do Style Application Using QT
 
 ![image](https://github.com/user-attachments/assets/f658b325-04e2-4f21-bc8a-3e1291193403)
 
