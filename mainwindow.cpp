@@ -23,6 +23,7 @@ MainWindow::MainWindow(QWidget *parent)
         // file.errorString() is our output to the box
         QMessageBox::information(0,"error",file.errorString());
         /* to do: handle errors */
+        return;
     }
 
     QTextStream in(&file);
