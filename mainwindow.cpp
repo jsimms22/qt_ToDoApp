@@ -10,6 +10,10 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+
+    // change window name
+    QWidget::setWindowTitle("To Do App");
+
     // open a file in the current working directory
     QFile file(this->m_path);
 
