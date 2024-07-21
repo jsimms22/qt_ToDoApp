@@ -89,6 +89,7 @@ void MainWindow::on_btnSave_clicked()
     QFile file(this->m_path);
     if (!file.open(QIODevice::ReadWrite)) {
         QMessageBox::information(0,"error",file.errorString());
+        return;
     }
 
     // write out contents of list widget to file
