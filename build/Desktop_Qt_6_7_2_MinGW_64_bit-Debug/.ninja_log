@@ -1,0 +1,51 @@
+# ninja log v6
+13	101	7432999237074629	ToDoApp_autogen/timestamp	aac383ceecd4b312
+13	101	7432999237074629	ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+13	101	7432999237074629	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/timestamp	aac383ceecd4b312
+13	101	7432999237074629	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+321	1171	7432997978801826	CMakeFiles/ToDoApp.dir/main.cpp.obj	4cdcb3117db4d90a
+319	1175	7432997978781796	CMakeFiles/ToDoApp.dir/ToDoApp_autogen/mocs_compilation.cpp.obj	b72ec0ab08f63701
+102	1334	7432999237962277	CMakeFiles/ToDoApp.dir/mainwindow.cpp.obj	4e6b2dd2cb511ec5
+1334	1438	7432999250285965	ToDoApp.exe	4a11a648b93774b
+14	103	7432999753913688	ToDoApp_autogen/timestamp	aac383ceecd4b312
+14	103	7432999753913688	ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+14	103	7432999753913688	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/timestamp	aac383ceecd4b312
+14	103	7432999753913688	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+104	1316	7432999754808771	CMakeFiles/ToDoApp.dir/mainwindow.cpp.obj	4e6b2dd2cb511ec5
+1316	1419	7432999766939952	ToDoApp.exe	4a11a648b93774b
+15	102	7433000192030494	ToDoApp_autogen/timestamp	aac383ceecd4b312
+15	102	7433000192030494	ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+15	102	7433000192030494	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/timestamp	aac383ceecd4b312
+15	102	7433000192030494	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+103	1325	7433000192907482	CMakeFiles/ToDoApp.dir/mainwindow.cpp.obj	4e6b2dd2cb511ec5
+1325	1429	7433000205127309	ToDoApp.exe	4a11a648b93774b
+14	87	7433001383459626	ToDoApp_autogen/timestamp	aac383ceecd4b312
+14	87	7433001383459626	ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+14	87	7433001383459626	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/timestamp	aac383ceecd4b312
+14	87	7433001383459626	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+87	1322	7433001384199306	CMakeFiles/ToDoApp.dir/mainwindow.cpp.obj	4e6b2dd2cb511ec5
+1322	1426	7433001396538491	ToDoApp.exe	4a11a648b93774b
+7	83	7433001721862749	ToDoApp_autogen/timestamp	aac383ceecd4b312
+7	83	7433001721862749	ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+7	83	7433001721862749	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/timestamp	aac383ceecd4b312
+7	83	7433001721862749	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+84	1316	7433001722631318	CMakeFiles/ToDoApp.dir/mainwindow.cpp.obj	4e6b2dd2cb511ec5
+1316	1422	7433001734947879	ToDoApp.exe	4a11a648b93774b
+13	92	7433003361848643	ToDoApp_autogen/timestamp	aac383ceecd4b312
+13	92	7433003361848643	ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+13	92	7433003361848643	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/timestamp	aac383ceecd4b312
+13	92	7433003361848643	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+92	1351	7433003362631838	CMakeFiles/ToDoApp.dir/mainwindow.cpp.obj	4e6b2dd2cb511ec5
+1351	1467	7433003375221991	ToDoApp.exe	4a11a648b93774b
+7	106	7433005952737321	ToDoApp_autogen/timestamp	aac383ceecd4b312
+7	106	7433005952737321	ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+7	106	7433005952737321	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/timestamp	aac383ceecd4b312
+7	106	7433005952737321	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+107	1375	7433005953728488	CMakeFiles/ToDoApp.dir/mainwindow.cpp.obj	4e6b2dd2cb511ec5
+1375	1488	7433005966413318	ToDoApp.exe	4a11a648b93774b
+13	105	7433006932037671	ToDoApp_autogen/timestamp	aac383ceecd4b312
+13	105	7433006932037671	ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+13	105	7433006932037671	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/timestamp	aac383ceecd4b312
+13	105	7433006932037671	C:/Users/work/Code/CPP_C/QT Projects/ToDoApp/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ToDoApp_autogen/mocs_compilation.cpp	aac383ceecd4b312
+106	1375	7433006932973159	CMakeFiles/ToDoApp.dir/mainwindow.cpp.obj	4e6b2dd2cb511ec5
+1375	1487	7433006945658049	ToDoApp.exe	4a11a648b93774b
